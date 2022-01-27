@@ -3,3 +3,6 @@
 ################################################################################
 
 /PriorityQueue/.vs/PriorityQueue
+/PriorityQueue/obj
+/PriorityQueue/bin/Debug/net6.0
+/.vs/PriorityQueue/v17
